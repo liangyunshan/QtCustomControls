@@ -13,7 +13,7 @@ Here are some custom controls , you can use it directly.
 
 ## [CstmTimepanel](https://github.com/canghai1234/QtCustomControls/tree/master/CstmTimepanel)
 ![CstmTimepanel](/IMAGE/CstmTimepanelpic1.png)
-![CstmTimepanel](/IMAGE/CstmTimepanelpic2.png)
+![CstmTimepanel](/IMAGE/helloWorld!!!/CstmTimepanelpic2.png)
 
 
 ## [CstmWaveProgress](https://github.com/canghai1234/QtCustomControls/tree/master/CstmWaveProgress)
